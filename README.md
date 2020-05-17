@@ -9,4 +9,5 @@
 #### The facebook bot messanger was created with the intention to improve the interface as well 
 #### As well as creating ease in the interaction with the bot.
 
-## Project 3.
+## Project 3: [Golang NeuralNetwork](https://github.com/kelvin169/Golang-Neuralnet)
+
