@@ -10,4 +10,5 @@
 #### As well as creating ease in the interaction with the bot.
 
 ## Project 3: [Golang NeuralNetwork](https://github.com/kelvin169/Golang-Neuralnet)
+####Creating Neural networks was exciting and enabled me to appreciate the capabilities of golang
 
