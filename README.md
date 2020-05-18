@@ -14,3 +14,7 @@
 
 ## Project 4: [Ecommerce show store](https://github.com/kelvin169/Flutter-Adidas-Shoes-Ecommerce-App-UI)
 #### Coming up with an ecommerce show store helped me explor the capabilities of using flutter for User interface design
+#### A few resources to get you started if this is your first Flutter project:
+
+#### Lab: Write your first Flutter app
+#### Cookbook: Useful Flutter samples
