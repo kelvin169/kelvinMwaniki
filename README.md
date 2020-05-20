@@ -16,6 +16,7 @@
 #### Turns out golang also has multiple 
 
 ## Project 4: [E-commerce shoes store](https://github.com/kelvin169/Flutter-Adidas-Shoes-Ecommerce-App-UI)
+![](store.jpg)
 #### Coming up with an ecommerce show store helped me explor the capabilities of using flutter for User interface design
 #### A few resources to get you started if this is your first Flutter project:
 #### Lab: Write your first Flutter app
