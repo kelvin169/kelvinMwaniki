@@ -4,7 +4,7 @@
 ![](CoronaVirus.png)
 #### so the project initially started off as a way to convey credible information to the masses 
 #### Our primary aim being to focus more on simplicity and efficiency so as to make it not just easy to use 
-#### But also efficient and effective 
+#### But also efficient and effective  in its operation 
 
 ## Project 2 . [FaceBook MessangerBot](https://www.messenger.com/t/ytfcoronavirusbot)
 ![](FBchat.PNG)
