@@ -18,6 +18,6 @@
 ## Project 4: [E-commerce shoes store](https://github.com/kelvin169/Flutter-Adidas-Shoes-Ecommerce-App-UI)
 ![](store.jpg)
 #### Coming up with an ecommerce show store helped me explor the capabilities of using flutter for User interface design
-#### A few resources to get you started if this is your first Flutter project:
-#### Lab: Write your first Flutter app
-#### Cookbook: Useful Flutter samples
+####  The adantage of using flutter is that only a single code base is necessary and there is no need for additional software 
+#### It is also fast and the fact that it entirely uses widgets means that it is great for various applications. 
+#### Much of the online projects support various variations and in the process we end up coming up with exciting projects 
