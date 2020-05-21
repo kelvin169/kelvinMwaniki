@@ -24,3 +24,4 @@
 
 ### Project 5 :[Python Automation]()
 #### In the process of automating in python , I came across some pretty good use case scenarios 
+#### One of the use case for automation is by takin away the mundane tasks more so in everyday activities 
