@@ -22,6 +22,6 @@
 #### It is also fast and the fact that it entirely uses widgets means that it is great for various applications. 
 #### Much of the online projects support various variations and in the process we end up coming up with exciting projects 
 
-### Project 5 :[Python Automation](https://github.com/kelvin169/PythonAutomation)
+### Project 5 :[Python Automation](https://github.com/kelvin169/Python-Automation)
 #### In the process of automating in python , I came across some pretty good use case scenarios 
 #### One of the use case for automation is by takin away the mundane tasks more so in everyday activities 
