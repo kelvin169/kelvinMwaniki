@@ -14,6 +14,7 @@
 ## Project 3: [Golang NeuralNetwork](https://github.com/kelvin169/Golang-Neuralnet)
 #### Creating Neural networks was exciting and enabled me to appreciate the capabilities of golang
 #### Turns out golang also has multiple use case scenarios as well as it is fit for many applications 
+#### Machine learning is however not as widely used in golang seeing it does not have many supporting libraries.
 
 ## Project 4: [E-commerce shoes store](https://github.com/kelvin169/Flutter-Adidas-Shoes-Ecommerce-App-UI)
 ![](store.jpg)
