@@ -29,4 +29,4 @@
 #### The email project is largely an automated system that allows for frequent response.
 ####  In the process you end up learning so much about python as a language 
 
-## Project 6: [ Flutter UI Travel app](https://github.com/kelvin169/flutter_travel_ui)
+### Project 6:[ Flutter UI Travel app](https://github.com/kelvin169/flutter_travel_ui)
