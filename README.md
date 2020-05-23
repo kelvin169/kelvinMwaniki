@@ -30,3 +30,4 @@
 ####  In the process you end up learning so much about python as a language 
 
 ### Project 6:[ Flutter UI Travel app](https://github.com/kelvin169/flutter_travel_ui)
+#### When creating a flutter app , the basis of it is knowing and understanding dart. 
