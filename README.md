@@ -1,5 +1,5 @@
 # [kelvin Mwaniki ](https://kelvin169.github.io/kelvinMwaniki/)
-## Portfolio Projects
+## Portfolio Projects.
 ### Project 1. [Corona virus Bot ](https://webchat.snatchbot.me/2d7fac783f74a5e528703986d0d2702f01dd35233435a0c67ca9f5282e3b98af)
 ![](CoronaVirus.png)
 #### so the project initially started off as a way to convey credible information to the masses 
@@ -9,7 +9,8 @@
 ## Project 2 . [FaceBook MessangerBot](https://www.messenger.com/t/ytfcoronavirusbot)
 ![](FBchat.PNG)
 #### The facebook bot messanger was created with the intention to improve the interface as well 
-#### As well as creating ease in the interaction with the bot
+#### As well as creating ease in the interaction with the bot. 
+#### The advantage of working with the facebook messenger was that it has more people accessing it.
 
 ## Project 3: [Golang NeuralNetwork](https://github.com/kelvin169/Golang-Neuralnet)
 #### Creating Neural networks was exciting and enabled me to appreciate the capabilities of golang
