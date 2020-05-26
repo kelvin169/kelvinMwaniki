@@ -34,3 +34,4 @@
 ### Project 6:[ Flutter UI Travel app](https://github.com/kelvin169/flutter_travel_ui)
 #### When creating a flutter app , the use of widgets is extensive
 #### The exciting thing about it is that there is no shortage of ideas that can be explored using the program. 
+#### The advatage of rapid prototyping means a lot can be tried out within a given period of time
