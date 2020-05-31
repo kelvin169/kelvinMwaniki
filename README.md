@@ -36,6 +36,6 @@
 #### The exciting thing about it is that there is no shortage of ideas that can be explored using the program. 
 #### The advatage of rapid prototyping means a lot can be tried out within a given period of time
 
-### project 7 : [YouTubeClone]()
+### project 7 : [YouTubeClone](https://www.youtube.com/watch?v=aLLwKaxh98M)
 #### Yet another flutter based project 
 #### So the only difference with this one is the measures taken are different 
