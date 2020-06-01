@@ -39,4 +39,5 @@
 ### project 7 : [YouTubeClone](https://www.youtube.com/watch?v=aLLwKaxh98M)
 #### Yet another flutter based project 
 #### So the only difference with this one is the measures taken are different
-#### So the next major adjustment was making use of the widgets availabe 
+#### So the next major adjustment was making use of the widgets available. 
+#### Also it was interesting deploying and adding new features 
