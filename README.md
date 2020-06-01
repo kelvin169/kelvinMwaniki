@@ -40,4 +40,4 @@
 #### Yet another flutter based project 
 #### So the only difference with this one is the measures taken are different
 #### So the next major adjustment was making use of the widgets available. 
-#### Also it was interesting deploying and adding new features 
+#### Also it was interesting deploying and adding new features. 
