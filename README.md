@@ -45,11 +45,6 @@
 #### So the next major adjustment was making use of the widgets available. 
 #### Also it was interesting deploying and adding new features
 
-### Project 8: [Twiga food](https://github.com/kelvin169/twigafoods)
-#### A start of a good social project
-#### open source projects.
-#### improved systems using programming.
-
-### Project 9:[Mpesa-Golang ](https://github.com/kelvin169/mpesa-api-go)
+### Project 8:[Mpesa-Golang ](https://github.com/kelvin169/mpesa-api-go)
 #### Just to give context this is not a personal project but something I have taken keen interest in 
 #### Golang is a really interesting language to work with
