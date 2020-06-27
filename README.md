@@ -18,7 +18,7 @@
 #### Creating Neural networks was exciting and enabled me to appreciate the capabilities of golang
 #### Turns out golang also has multiple use case scenarios as well as it is fit for many applications 
 #### Machine learning is however not as widely used in golang seeing it does not have many supporting libraries.
-#### One of the core aim of the project is to also explore the various approaches Golang takes 
+#### One of the core aim of the project is to also explore the various approaches Golang takes.
 
 ## Project 4: [E-commerce shoes store](https://github.com/kelvin169/Flutter-Adidas-Shoes-Ecommerce-App-UI)
 ![](store.jpg)
@@ -39,7 +39,7 @@
 #### The exciting thing about it is that there is no shortage of ideas that can be explored using the program. 
 #### The advatage of rapid prototyping means a lot can be tried out within a given period of time.
 
-### project 7 : [YouTubeClone](https://www.youtube.com/watch?v=aLLwKaxh98M)
+### project 7 : [YouTubeClone](https://www.youtube.com/watch?v=aLLwKaxh98M) 
 #### Yet another flutter based project 
 #### So the only difference with this one is the measures taken are different
 #### So the next major adjustment was making use of the widgets available. 
