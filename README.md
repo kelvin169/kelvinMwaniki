@@ -31,7 +31,7 @@
 ### Project 5 :[Python Automation](https://github.com/kelvin169/Python-Automation)
 #### In the process of automating in python , I came across some pretty good use case scenarios.
 #### One of the use case for automation is by takin away the mundane tasks more so in everyday activities.
-#### The email project is largely an automated system that allows for frequent response.
+#### The email project is largely an automated system that allows for frequent response
 ####  In the process you end up learning so much about python as a language.
 
 ### Project 6:[ Flutter UI Travel app](https://github.com/kelvin169/flutter_travel_ui)
@@ -48,6 +48,6 @@
 ### Project 8:[Mpesa-Golang ](https://github.com/kelvin169/mpesa-api-go)
 #### Just to give context this is not a personal project but something I have taken keen interest in 
 #### Golang is a really interesting language to work with. 
-#### Golang is efficient for backend.
+#### Golang is efficient for backend
 #### Soon to come will be a matlab clone 
 
