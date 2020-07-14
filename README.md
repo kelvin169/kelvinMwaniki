@@ -49,5 +49,5 @@
 #### Just to give context this is not a personal project but something I have taken keen interest in 
 #### Golang is a really interesting language to work with. 
 #### Golang is efficient for backend
-#### Soon to come will be a matlab clone 
+#### Soon to come will be a matlab clone And fast fourier transform
 
