@@ -32,7 +32,8 @@
 #### In the process of automating in python , I came across some pretty good use case scenarios.
 #### One of the use case for automation is by takin away the mundane tasks more so in everyday activities.
 #### The email project is largely an automated system that allows for frequent response
-####  In the process you end up learning so much about python as a language.
+####  In the process you end up learning so much about python as a language. 
+####  This also goes with a lot of exposure to classes and procedures 
 
 ### Project 6:[ Flutter UI Travel app](https://github.com/kelvin169/flutter_travel_ui)
 #### When creating a flutter app , the use of widgets is extensive
