@@ -10,7 +10,7 @@
 ## Project 2 . [FaceBook MessangerBot](https://www.messenger.com/t/ytfcoronavirusbot)
 ![](FBchat.PNG)
 #### The facebook bot messanger was created with the intention to improve the interface as well 
-#### As well as creating ease in the interaction with the bot
+#### As well as creating ease in the interaction with the bot.
 #### The advantage of working with the facebook messenger was that it has more people accessing it
 #### This also gives a more personal approach and feel to the interaction.
 
