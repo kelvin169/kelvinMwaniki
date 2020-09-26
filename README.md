@@ -5,7 +5,7 @@
 #### so the project initially started off as a way to convey credible information to the masses 
 #### Our primary aim being to focus more on simplicity and efficiency so as to make it not just easy to use and equally effective.
 #### But also efficient and effective  in its operation. The whole process and aim of the project was to create awareness
-#### It also helps ensure the correct information is shared
+#### It also helps ensure the correct information is shared.
 
 ## Project 2 . [FaceBook MessangerBot](https://www.messenger.com/t/ytfcoronavirusbot)
 ![](FBchat.PNG)
@@ -22,15 +22,15 @@
 
 ## Project 4: [E-commerce shoes store](https://github.com/kelvin169/Flutter-Adidas-Shoes-Ecommerce-App-UI)
 ![](store.jpg)
-#### Coming up with an ecommerce show store helped me explor the capabilities of using flutter for User interface design
-####  The adantage of using flutter is that only a single code base is necessary and there is no need for additional software 
+#### Coming up with an eCommerce show store helped me explore the capabilities of using flutter for User interface design
+####  The advantage of using flutter is that only a single code base is necessary and there is no need for additional software 
 #### It is also fast and the fact that it entirely uses widgets means that it is great for various applications
-#### Much of the online projects support various variations and in the process we end up coming up with exciting projects.
+#### Much of the online projects support various variations and in the process, we end up coming up with exciting projects.
 #### Continuous improvement in my opinion is something very crucial
 
 ### Project 5 :[Python Automation](https://github.com/kelvin169/Python-Automation)
-#### In the process of automating in python , I came across some pretty good use case scenarios.
-#### One of the use case for automation is by takin away the mundane tasks more so in everyday activities.
+#### In the process of automating in python, I came across some pretty good use case scenarios.
+#### One of the use case for automation is by taking away the mundane tasks more so in everyday activities.
 #### The email project is largely an automated system that allows for frequent response
 ####  In the process you end up learning so much about python as a language
 ####  This also goes with a lot of exposure to classes and procedures
