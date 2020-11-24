@@ -6,7 +6,7 @@
 #### Our primary aim being to focus more on simplicity and efficiency so as to make it not just easy to use and equally effective.
 #### But also efficient and effective  in its operation. The whole process and aim of the project was to create awareness.
 #### It also helps ensure the correct information is shared.
-#### New project coming up
+
 
 ## Project 2 . [FaceBook MessangerBot](https://www.messenger.com/t/ytfcoronavirusbot)
 ![](FBchat.PNG)
