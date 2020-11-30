@@ -4,7 +4,7 @@
 ![](CoronaVirus.png)
 #### so the project initially started off as a way to convey credible information to the masses 
 #### Our primary aim being to focus more on simplicity and efficiency so as to make it not just easy to use and equally effective.
-#### But also efficient and effective  in its operation. The whole process and aim of the project was to create awareness.
+#### But also efficient and effective  in its operation. The whole process and aim of the project was to create awareness
 #### It also helps ensure the correct information is shared
 
 
