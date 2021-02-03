@@ -16,7 +16,7 @@
 #### This also gives a more personal approach and feel to the interaction 
 
 ## Project 3: [Golang NeuralNetwork](https://github.com/kelvin169/Golang-Neuralnet)
-#### Creating Neural networks was exciting and enabled me to appreciate the capabilities of golang.
+#### Creating Neural networks was exciting and enabled me to appreciate the capabilities of golang
 #### Turns out golang also has multiple use case scenarios as well as it is fit for many applications.
 #### Machine learning is however not as widely used in golang seeing it does not have many supporting libraries
 #### One of the core aim of the project is to also explore the various approaches Golang takes.
