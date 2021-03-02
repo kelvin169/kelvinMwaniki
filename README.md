@@ -31,7 +31,7 @@
 
 ### Project 5 :[Python Automation](https://github.com/kelvin169/Python-Automation)
 #### In the process of automating in python, I came across some pretty good use case scenarios.
-#### One of the use case for automation is by taking away the mundane tasks more so in everyday activities.
+#### One of the use case for automation is by taking away the mundane tasks more so in everyday activities
 #### The email project is largely an automated system that allows for frequent response.
 ####  In the process you end up learning so much about python as a language.
 ####  This also goes with a lot of exposure to classes and procedures.
