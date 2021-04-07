@@ -2,7 +2,7 @@
 ## Portfolio Projects
 ### Project 1. [Corona virus Bot ](https://webchat.snatchbot.me/2d7fac783f74a5e528703986d0d2702f01dd35233435a0c67ca9f5282e3b98af)
 ![](CoronaVirus.png)
-#### so the project initially started off as a way to convey credible information to the masses
+#### so the project initially started off as a way to convey credible information to the masses.
 #### Our primary aim being to focus more on simplicity and efficiency so as to make it not just easy to use and equally effective
 #### But also efficient and effective  in its operation. The whole process and aim of the project was to create awareness
 #### It also helps ensure the correct information is shared
