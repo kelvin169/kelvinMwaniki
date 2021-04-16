@@ -27,7 +27,7 @@
 #### Coming up with an eCommerce show store helped me explore the capabilities of using flutter for User interface design
 ####  The advantage of using flutter is that only a single code base is necessary and there is no need for additional software .
 #### It is also fast and the fact that it entirely uses widgets means that it is great for various applications.
-#### Much of the online projects support various variations and in the process, we end up coming up with exciting projects.
+#### Much of the online projects support various variations and in the process, we end up coming up with exciting projects
 #### Continuous improvement in my opinion is something very crucial.
 
 ### Project 5 :[Python Automation](https://github.com/kelvin169/Python-Automation)
