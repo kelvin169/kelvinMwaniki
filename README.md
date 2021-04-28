@@ -14,7 +14,7 @@
 #### The facebook bot messanger was created with the intention to improve the interface as well.
 #### As well as creating ease in the interaction with the bot.
 #### The advantage of working with the facebook messenger was that it has more people accessing it.
-#### This also gives a more personal approach and feel to the interaction
+#### This also gives a more personal approach and feel to the interaction.
 
 ## Project 3: [Golang NeuralNetwork](https://github.com/kelvin169/Golang-Neuralnet)
 #### Creating Neural networks was exciting and enabled me to appreciate the capabilities of golang
