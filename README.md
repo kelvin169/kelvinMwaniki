@@ -7,6 +7,7 @@
 #### But also efficient and effective  in its operation. The whole process and aim of the project was to create awareness
 #### It also helps ensure the correct information is shared.
 #### An update should be soon available.
+####  The update will be released on March 2022
 
 
 ## Project 2 . [FaceBook MessangerBot](https://www.messenger.com/t/ytfcoronavirusbot)
